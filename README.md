@@ -85,7 +85,7 @@ Project này giúp sinh viên:
 
 ### 1. Clone project
 ```bash
-git clone https://github.com/nguyenthu1710/flutter_calculator_nguyen_thi_thu.git
+git clone https://github.com/NguyenThiThu1710/flutter_calculator_nguyen_thi_thu.git
 ```
 
 ### 2. Cài đặt dependencies
