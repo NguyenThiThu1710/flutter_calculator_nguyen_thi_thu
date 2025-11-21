@@ -68,6 +68,7 @@ Project này giúp sinh viên:
 ## Giao diện ứng dụng
 ![Giao diện máy tính](screenshots/GiaodienMayTinh.jpg)
 ![Video demo chức năng](screenshots/Demo.webm)
+https://youtube.com/shorts/5hI2V8cAuaM?feature=share
 
 
 ---
